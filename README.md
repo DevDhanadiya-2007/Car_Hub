@@ -1,4 +1,4 @@
-## This Website is Made by ==Dev Dhanadiya== as a practice project with the help of TypeScript, Next.js, HeadlessUI Library for React/Next.js
+## This Website is Made by `Dev Dhanadiya` as a practice project with the help of TypeScript, Next.js, HeadlessUI Library for React/Next.js
 
 ## Getting Started
 
